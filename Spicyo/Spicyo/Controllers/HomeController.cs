@@ -10,8 +10,8 @@ namespace Spicyo.Controllers
     {
         public ActionResult Index()
         {
-            int v = "";
-            return View(); ;
+            //int v = "";
+            return View() ;
         }
 
         public ActionResult About()
